@@ -1,4 +1,4 @@
-Nausicaa-chapter-1-text-scan
+Nausicaa-chapter-1-text
 ============================
 
 Colaborative legend - scans online - http://www.mangareader.net/nausicaa-of-the-valley-of-the-wind/1
