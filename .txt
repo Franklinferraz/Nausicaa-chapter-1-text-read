@@ -865,9 +865,10 @@ Daughter of the chieftain of Pejitei...
 -I forbid you to advance one step beyond this sword.
 -Withdraw immediately!
 
+[Page 54]
 [Strange captain in a armor]-We have come in pursuit of the traitors of Pejitei, on the orders of his eminence, the Vai emperor.
 -The wormhandlers have been attacked to our unit as special commandos.
--I will allow us to search this valley!
+-You will allow us to search this valley!
 
 [Nausicaä]-I will not! You will find no traitors in the valley of wind! We are an autonomous nation of the periphery, and we have never once violated our treaties with the emperor!
 -Even the imperial bodyguards of the emperor himself must abide by the rules of conduct!
@@ -877,8 +878,107 @@ Daughter of the chieftain of Pejitei...
 -PSST -PSST
 
 [Nausicaä is thinking]-Those monsters! They've desecrated that child's grave!
-They
-[Strange captain in a armor]
+-They have no respect for the dead! It's intorelable! They will never get this stone from me!
+
+[Creatures]-CHEE CHEE  -CHEE CHEE  -snff -snff  -Wrm -Wrm
+
+[Page 55]
+[Strange captain in a armor]-Don't me Nausicaä, or whatever you call yourself!
+
+[Creatures]-snff -snff  -Wrm -Wrm
+
+[Strange captain in a armor]-Heh Heh... it seems the worms have smelled out the thing we're looking for...
+
+[Creatures]-snff -Wrm -Wrm -Kwee -Kwee
+
+-KZZT
+
+-!
+
+[Page 56]
+-ZZAT
+-KEEE
+
+[creatures]-Wrm -Wrm -Wrm
+
+[Strange soldier]-What happened?!
+-Our lovely slug-worms!
+
+[Strange captain in a armor]-That girl... some kind of magic...
+
+[Nausicaä]-Dogs of Torumekia! You've fouled my body with your despicable maggots!
+-I shall not forgive!
+
+[Strange captain in a armor]-Is that so? Then I will take you on little girl!
+
+-WSST
+
+[Page 57]
+[Uncle Mito in a plane]-It's a duel! She fell for their challenge!
+
+[strange soldiers in a other plane]-Target the gunship!
+-Over there! Wha...?
+
+-RWD -RWD
+
+-RWD -RWD -RWD
+
+[Lord Yupa]-Wait! Duellists, hold your swords!
+
+[Strange captain in a armor]-Yupa! So that's the man they call the finest swordsman in the periphery...
+
+[strange soldiers]-That man... it's Master Yupa!
+
+[Page 58]
+[Lord Yupa]-Prudence, Nausicaä!
+-You mustn't turn this valley into a battlefield!
+-Can this really be my Nausicaä?
+-She has forgotten herself in her anger, like an Ohmu consumed with rage...
+
+[Page 59]
+-CHNK -KANG -WSSH
+
+[Page 60]
+-KNCH
+
+[Soldiers]-YAA!
+
+[Soldier]-NGRAA!
+
+[Nausicaä]-heh
+-Now!
+
+-WHUNGG
+
+[Page 61]
+[Lord Yupa]-Don't move either of you!
+-This knife is carved from Ohmu shell--Move, and it will slice through your ceramic armor like paper.
+-Listen well! This is a duel that must have no victor!
+-Whoever falls, hatred. Two nations, bound by ancient treaties, comrades in battle, will plunge into meaningless, bloody war!
+-To the imperial guards, a question! Has the emperor commanded you to trample the code of conduct of the periphery, and bring civil war upon the alliance?!
+-Or would you in your error risk honorless death in a distant land?!
+-If so, know you that the people of the periphery will fight to the death to defend their pride and the right to self-rule!
+-And you listen, too, people of the valley of wind! 
+-If your adversaries trespass in ignorance of the taboos of the forest, then it is madness to risk the future of the valley in rash anger!
+[Yupa thinking]-Nausicaä... you've finally returned to yourself...
+-BLP -BLP
+-But don't loosen your grip, not until I'm done...
+[Lord Yupa speak with Nausicaä]-Will you let this duel continue, and walk the path to mutual destruction? Answer me!!
+
+[Page 62]
+[Strange captain in a armor]-Ha ha ha.
+-A magnificent speech, master Yupa! We'll be first to sheath our swords!
+-Carry the wounded aboard. We leave at once.
+
+[Soldier]-Yes, commander!
+
+
+
+
+
+
+
+
 
 
 
